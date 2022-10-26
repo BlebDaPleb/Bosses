@@ -1,0 +1,17 @@
+# World that you want to spawn the boss in
+World: world
+# Coords that you want the boss to spawn in
+XCoord: 0
+YCoord: 0
+ZCoord: 0
+# Drowned boss
+DrownedBossName: Drowned
+DrownedSpeed: 1
+DrownedHealth: 300
+BossSummonedMsg: Drowned boss has been summoned
+BossDiedMsg: Drowned boss has been killed!
+Protection: 4
+HenchmenName: LVL 1 Henchmen
+HenchmenHealth: 20
+HenchmenSpeed: 0.10
+BossHasShieldMsg: The boss has its shield up!

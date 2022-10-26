@@ -1,0 +1,14 @@
+name: Bosses
+author: BlebDaPleb
+main: com.blebdapleb.bosses.BossesMain
+api-version: 1.17
+version: 1.0
+commands:
+  summondrownedboss:
+    Description: Summons a drowned bosse
+    Usage: /<command>
+    permission: summonboss.drowned
+permissions:
+  summonboss.drowned:
+    default: op
+    Description: Permission to summon a drowned boss
